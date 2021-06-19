@@ -1,0 +1,22 @@
+antlr4-python3-runtime==4.8
+astroid==2.3.3
+autopep8==1.5
+isort==4.3.21
+lazy-object-proxy==1.4.3
+mccabe==0.6.1
+neo4j==1.7.6
+neobolt==1.7.16
+neotime==1.7.4
+numpy==1.18.4
+pandas==1.0.4
+psycopg2==2.8.5
+pyarrow==0.17.1
+pylint==2.4.4
+pymongo==3.10.1
+-e git+git@github.com:jmaschad/pypika.git@51af783a7094645a16918ee083d70190e798c1a0#egg=PyPika
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.14.0
+SQLAlchemy==1.3.17
+typed-ast==1.4.1
+wrapt==1.11.2
